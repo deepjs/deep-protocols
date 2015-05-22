@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/deepjs/deep-ocm"
+    "url": "https://github.com/deepjs/deep-protocols"
   },
   "keywords": [
     "javascript",
-    "ocm",
-    "design",
-    "security"
+    "dependency injection",
+    "Abstract resource Locator",
+    "provider"
   ],
   "author": "Gilles Coomans <gilles.coomans@gmail.com>",
   "license": "MIT",
